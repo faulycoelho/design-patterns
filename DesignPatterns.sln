@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactory", "1.Creation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "1.Creational\AbstractFactory\AbstractFactory.csproj", "{A20931D1-65C9-4229-AF34-42F29DC39A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "1.Creational\Builder\Builder.csproj", "{9C53A79A-BAA5-43CF-BDF4-19937A353090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "1.Creational\Builder\Builder.csproj", "{9C53A79A-BAA5-43CF-BDF4-19937A353090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
